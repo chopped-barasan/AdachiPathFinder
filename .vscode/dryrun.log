@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/chopped-barasan/micro_mouse/program/path_finder_pc'
+make: Leaving directory '/home/chopped-barasan/micro_mouse/program/path_finder_pc'
+ 
+Makefile:18: *** missing separator.  Stop.
+ 
